@@ -10,7 +10,7 @@ O projeto Finans é na verdade, um site de finanças fictício, e o projeto foi 
 Com o Bootstrap implementado, o projeto se tornou uma ótima oportunidade para que eu treinasse as funções de layouts responsivos, e as suas filosofias de "Mobile first". 
 
 <img src="img/finans_responsivo.png">
-<br>
-<br>
+
+
 <h1>Cŕeditos</h1>
 O projeto foi realizado com a ajuda do professor Jamilton Damasceno e seu curso sobre desenvolvimento web completo na plataforma da Udemy.
