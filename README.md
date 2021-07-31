@@ -12,5 +12,5 @@ Com o Bootstrap implementado, o projeto se tornou uma ótima oportunidade para q
 <img src="img/finans_responsivo.png">
 
 
-<h1>Cŕeditos</h1>
+<h1>Créditos</h1>
 O projeto foi realizado com a ajuda do professor Jamilton Damasceno e seu curso sobre desenvolvimento web completo na plataforma da Udemy.
